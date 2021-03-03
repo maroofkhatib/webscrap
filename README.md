@@ -1,6 +1,6 @@
 # webscrap
 
-For some reason i could'nt configure the mongodb, but i have scraped the news from NDTV.com and created an API using flask API in python.
+I have scraped the news from NDTV.com and created an API using flask API in python.
 
 1. To run the API first activate the virtual environment in this repository:
    source bin/activate
